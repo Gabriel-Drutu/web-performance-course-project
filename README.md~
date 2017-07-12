@@ -4,7 +4,6 @@ This is a learning project for Udacity's Web Performance Optimization course.
 
 The goal was to improve performance and get the [Page Speed Insights](https://developers.google.com/speed/pagespeed/insights/?url=https%3A%2F%2Fgabriel-drutu.github.io%2Fweb-performance-course-project%2F&tab=mobile) score of this front page website from 25% to 90% and above (which is the case now).
 
-
 #### Observation
 
 The site performance was lowered most by the large unoptimized images. And second the request for the font-style.
